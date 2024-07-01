@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Impact, Haettenschweiler, " Arial Narrow Bold ", sans-serif";
+}
+::selection {
+  color: rgba(183, 220, 255, 0.385);
+}
